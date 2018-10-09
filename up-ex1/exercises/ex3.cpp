@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    // Input example: 1 + 1 
     int x,y;
     char op;
     cin >> x >> op >> y;
