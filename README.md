@@ -27,7 +27,7 @@ git pull --rebase origin master
 
 ```
 
-Git command line tutorial - https://www.youtube.com/watch?v=HVsySz-h9r4&t=1495s
+- Git command line tutorial - https://www.youtube.com/watch?v=HVsySz-h9r4&t=1495s
 
 
 ## Tools
