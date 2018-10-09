@@ -11,11 +11,15 @@ int main()
     {
         cnt++;
         cin >> guessNum;
-        if (guessNum < secretNum) 
+        if (guessNum < secretNum)
+        {
             cout << "Too small\n";
-        if (guessNum > secretNum)
+        }
+        else if (guessNum > secretNum)
+        {
             cout << "Too big\n";
-        if (guessNum == secretNum)
+        }
+        else 
         {
             cout << "You guessed it ;) in " << cnt << "tries\n";
             return 0;
