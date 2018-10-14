@@ -39,6 +39,7 @@ git pull --rebase origin master
 - Visual Studio IDE video - https://www.youtube.com/watch?v=_r5i5ZtUpUM
 - Visual Studio pdf - https://docs.google.com/document/d/1WEI5DeEieYOL4B8n7UeWcIDKHJdUDbzJlLgdZ3so66E/edit
 - Pause without system(“pause”) :) - https://stackoverflow.com/questions/1775865/preventing-console-window-from-closing-on-visual-studio-c-c-console-applicatio
+- Install CodeBlocks on Windows - https://www.youtube.com/watch?v=a4qnvQDZ0fM 
 - Лекции - https://learn.fmi.uni-sofia.bg/course/view.php?id=4671
 - Полезни източници:
    - https://www.learncpp.com/
